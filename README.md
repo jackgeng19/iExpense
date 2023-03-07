@@ -1,5 +1,5 @@
 <h1>iExpense 💰</h1>
-<img src = "ezgif.com-gif-maker.gif" alt="image_description" width=256px height=auto style=float:left margin-right:10px;>
+<img src = "ezgif.com-gif-maker.gif" alt="image_description" width=196px height=auto style=float:left margin-right:10px;>
 <p style=overflow:hidden>iExpense is a simple iOS application that allows users to track their expenses. It is designed to be intuitive and user-friendly, making it easy for anyone to keep track of their spending habits.</p>
 
 <h2>Features 📋</h2>
